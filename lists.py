@@ -1,3 +1,5 @@
+# Utility functions for working with lists
+
 def get_even_numbers(numbers):
     """Повертає список парних чисел."""
     return [n for n in numbers if n % 2 == 0]
