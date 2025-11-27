@@ -24,3 +24,4 @@ if __name__ == "__main__":
     print("Парні числа:", get_even_numbers(data))
     print("Унікальні відсортовані:", get_unique_sorted(data))
     print("Середнє значення:", average(data))
+    print("Кількість елементів:", len(data))
