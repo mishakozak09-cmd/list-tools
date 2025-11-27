@@ -1,4 +1,5 @@
 # Utility functions for working with lists
+# Change from second folder
 
 def get_even_numbers(numbers):
     """Повертає список парних чисел."""
